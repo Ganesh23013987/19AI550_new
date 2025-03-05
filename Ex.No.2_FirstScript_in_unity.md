@@ -35,8 +35,7 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3df9ce02-6104-466b-aa6f-97c5d28a2222" />
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/f95b1bda-56cb-4a97-b3c0-26dae11e343d" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d19c9e63-9321-4788-954c-f505be9f95a2" />
 
 
 
