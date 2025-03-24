@@ -42,7 +42,7 @@ public class Player_movement : MonoBehaviour
 
 ```
 ### Output:
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/a10cf8ad-058a-4393-8950-9ff146dd95ab" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/a10cf8ad-058a-4393-8950-9ff146dd95ab" />
 
 
 
