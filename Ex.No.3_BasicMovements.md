@@ -52,7 +52,10 @@ public class TransformOperations : MonoBehaviour
 }
 ```
 ### Output:
+##  Initial position of object:
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/7e0828aa-5d96-41dc-a8a0-0b9d4c834aac" />
+
+## After movement: 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/e9b67aa8-8096-497a-b157-2e64efe01d29" />
 
 
