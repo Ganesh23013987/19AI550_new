@@ -82,12 +82,14 @@ using UnityEngine;
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/de821a07-eece-4203-9e5a-3afdf64a161d)
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/7a669489-0f94-4e03-a42c-16db1298e719" />
 
 
 
 
-![WhatsApp Image 2025-03-25 at 7 50 39 PM](https://github.com/user-attachments/assets/7297a100-db1a-483b-a207-e604e65226b1)
+
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/3c43b7e2-e1c4-4e34-822c-ad2aff291b84" />
+
 
 
 
