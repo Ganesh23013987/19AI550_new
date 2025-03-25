@@ -82,12 +82,13 @@ using UnityEngine;
 ```
 
 ### Output:
+## Initially player in air:
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/7a669489-0f94-4e03-a42c-16db1298e719" />
 
 
 
 
-
+## After player jumped:
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/3c43b7e2-e1c4-4e34-822c-ad2aff291b84" />
 
 
