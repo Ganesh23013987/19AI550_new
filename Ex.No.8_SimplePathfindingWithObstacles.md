@@ -78,10 +78,11 @@ void Start()
 For smooth movement(optional)  -> use  
 float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDistance / 2;
 transform.position = startPos + new Vector3(movement, 0, 0);
-### Output:
+## Output:
+### Initially AI character position:
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/ba6d3eb2-04b4-43ce-8b0f-3d45238625be" />
-
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/281bae8d-c3f0-49bd-8016-50bbfded8520" />
+### After AI character position:
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/8ab5a6ab-d23f-49d5-84c8-4cc7a6a80818" />
 
 
 
