@@ -140,8 +140,9 @@ Check the following
 4. AICharacter assigned a start and goal
 
 ### Output:
+## Initial player position:
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/e8540e27-e02c-4eb2-aa57-4c80eb192042" />
-
+## After pathfinding player position:
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/89b757e9-6967-4a4a-814c-52893ac33742" />
 
 
