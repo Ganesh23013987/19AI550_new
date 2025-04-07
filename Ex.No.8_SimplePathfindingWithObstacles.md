@@ -81,6 +81,7 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 ## Output:
 ### Initially AI character position:
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/ba6d3eb2-04b4-43ce-8b0f-3d45238625be" />
+
 ### After AI character position:
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/8ab5a6ab-d23f-49d5-84c8-4cc7a6a80818" />
 
