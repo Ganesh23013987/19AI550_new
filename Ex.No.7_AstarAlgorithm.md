@@ -141,10 +141,11 @@ Check the following
 
 ## Output:
 ### Initial player position:
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/e8540e27-e02c-4eb2-aa57-4c80eb192042" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/bbc659bd-74dd-4d4a-9a00-a485f621b193" />
+
 
 ### After pathfinding player position:
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/89b757e9-6967-4a4a-814c-52893ac33742" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/d13173ad-ade8-45d8-af15-0f14feb81608" />
 
 
 
