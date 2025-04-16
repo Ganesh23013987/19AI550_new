@@ -1,4 +1,4 @@
-# Ex.No: 8  Implementation of Simple Pathfinding with Obstacles
+# Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### DATE: 24/03/25                                                                           
 ### REGISTER NUMBER : 212223240035
 ### AIM: 
