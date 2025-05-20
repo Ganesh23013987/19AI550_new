@@ -108,8 +108,8 @@ behaviors:
 ### Output:
 
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/12b5d02c-13ee-4e77-8878-32a617bdeb0a" />
 
-![WhatsApp Image 2025-05-19 at 18 31 06_6519236d](https://github.com/user-attachments/assets/618906b4-0770-4c7a-abb3-55bb067a2477)
 
 
 
